@@ -72,7 +72,7 @@ onMounted(async () => {
                                 Dirección
                             </th>
                             <th scope="col" class="px-6 py-3">
-                                Email
+                                Logotipo
                             </th>
                             <th scope="col" class="px-6 py-3">
                                 Teléfono
